@@ -1,7 +1,7 @@
 {
   "name": "right-pad",
   "version": "1.0.0",
-  "description": "Appends a single space to the right of a string.",
+  "description": "Extremely optimized v1.0 right-pad. High speed, zero bloat.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

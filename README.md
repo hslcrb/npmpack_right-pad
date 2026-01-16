@@ -4,61 +4,30 @@
   </a>
 </p>
 
-# right-pad
+# right-pad `v1.0`
 
-> An ultra-lightweight, zero-dependency TypeScript package to append a single space to the right of a string.
+> **Extreme speed. Zero bloat. One space.**
 
-[![npm version](https://img.shields.io/npm/v/right-pad.svg?style=flat-square)](https://www.npmjs.com/package/right-pad)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg?style=flat-square)](https://www.typescriptlang.org/)
+The world's most optimized package to append a space to a string. 
 
-[한국어 문서 (Korean)](./README_ko.md)
-
----
-
-## 🚀 Features
-
-- **Ultra Lightweight**: Zero dependencies, minimal footprint.
-- **TypeScript Optimized**: Full type safety with zero configuration.
-- **High Performance**: Single-line optimized arrow function for maximum speed.
-- **Clean API**: Simple and intuitive design.
-
-## 📦 Installation
+## ⚡️ Extreme Quick Start
 
 ```bash
-# Using npm
-npm install right-pad
-
-# Using yarn
-yarn add right-pad
-
-# Using pnpm
-pnpm add right-pad
+npm i right-pad
 ```
 
-## 🛠 Usage
-
-The goal of this package is to keep things as simple as possible.
-
-### Basic Usage
+## 🛠 Usage (One Word)
 
 ```typescript
-import pad from 'right-pad';
+import r from 'right-pad';
 
-const text = 'hello';
-const padded = pad(text);
-
-console.log(`'${padded}'`); // 'hello '
-console.log(padded.length); // 6
+r('hello'); // 'hello '
 ```
 
-### In Plain JavaScript
-
-```javascript
-const pad = require('right-pad');
-
-console.log(pad('world')); // 'world '
-```
+## 🚀 Performance
+- **O(1) Time Complexity**
+- **Zero Dependencies**
+- **Hyper-optimized V8 concantenation**
 
 ## 📄 Documentation
 

@@ -1,8 +1,3 @@
-/**
- * right-pad v1.0.0
- * (c) 2008-2026 Rheehose (Rhee Creative)
- * MIT License
- */
-
-export const rightPad = (s: string): string => s + ' ';
-export default rightPad;
+/** v1.0.0 Extreme | (c) 2026 Rheehose */
+export const r = (s: string): string => s + ' ';
+export default r;
