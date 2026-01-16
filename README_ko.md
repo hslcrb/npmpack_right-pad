@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/hslcrb/npmpack_right-pad">
-    <img src="logo.png" width="400" alt="right-pad logo">
+  <a href="https://github.com/hslcrb/npmpack_right-pad-extreme">
+    <img src="logo.png" width="400" alt="right-pad-extreme logo">
   </a>
 </p>
 
-# right-pad `v1.0` 🔥
+# right-pad-extreme `v1.0` 🔥
 
 > **가장 빠르고, 가장 강력하다. 오직 속도뿐.**
 
@@ -13,19 +13,19 @@
 ## ⚡️ 초고속 시작 (NPM)
 
 ```bash
-npm install right-pad
-# 또는 더 짧게: npm i right-pad
+npm install right-pad-extreme
+# 또는 더 짧게: npm i right-pad-extreme
 ```
 
 ## 🛠 극한의 사용법 (두 가지 방식)
 
 ```typescript
 // 방법 1: 가장 빠른 한 글자 (The fastest word)
-import r from 'right-pad';
+import r from 'right-pad-extreme';
 r('최적화'); // '최적화 '
 
 // 방법 2: 명확한 이름 (The descriptive word)
-import { right } from 'right-pad';
+import { right } from 'right-pad-extreme';
 right('최적화'); // '최적화 '
 ```
 

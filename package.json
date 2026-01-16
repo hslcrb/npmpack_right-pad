@@ -1,7 +1,7 @@
 {
-  "name": "right-pad",
+  "name": "right-pad-extreme",
   "version": "1.0.0",
-  "description": "🚀 The Fastest & Most Powerful Extreme v1.0 right-pad. High speed, zero bloat, pure power.",
+  "description": "🚀 The Fastest & Most Powerful Extreme v1.0 right-pad-extreme. High speed, zero bloat, pure power.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hslcrb/npmpack_right-pad.git"
+    "url": "git+https://github.com/hslcrb/npmpack_right-pad-extreme.git"
   },
   "keywords": [
-    "right-pad",
+    "right-pad-extreme",
     "pad",
     "string"
   ],
   "author": "Rheehose (Rhee Creative)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hslcrb/npmpack_right-pad/issues"
+    "url": "https://github.com/hslcrb/npmpack_right-pad-extreme/issues"
   },
-  "homepage": "https://github.com/hslcrb/npmpack_right-pad#readme",
+  "homepage": "https://github.com/hslcrb/npmpack_right-pad-extreme#readme",
   "files": [
     "dist",
     "README.md",

@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/hslcrb/npmpack_right-pad">
-    <img src="logo.png" width="400" alt="right-pad logo">
+  <a href="https://github.com/hslcrb/npmpack_right-pad-extreme">
+    <img src="logo.png" width="400" alt="right-pad-extreme logo">
   </a>
 </p>
 
-# right-pad `v1.0` 🔥
+# right-pad-extreme `v1.0` 🔥
 
 > **The Fastest. The Most Powerful. Pure Speed.**
 
@@ -13,19 +13,19 @@ The global standard for high-performance string padding. Engineered for absolute
 ## ⚡️ Extreme Quick Start (NPM)
 
 ```bash
-npm install right-pad
-# or just: npm i right-pad
+npm install right-pad-extreme
+# or just: npm i right-pad-extreme
 ```
 
 ## 🛠 Extreme Usage (Two Ways)
 
 ```typescript
 // Option 1: The fastest word
-import r from 'right-pad';
+import r from 'right-pad-extreme';
 r('opt'); // 'opt '
 
 // Option 2: The descriptive word
-import { right } from 'right-pad';
+import { right } from 'right-pad-extreme';
 right('opt'); // 'opt '
 ```
 
