@@ -1,22 +1,40 @@
 {
   "name": "right-pad",
   "version": "1.0.0",
-  "description": "A very simple package that adds a space to the right of a string.",
+  "description": "Appends a single space to the right of a string.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "test": "node dist/index.js",
+    "test": "npx ts-node test.ts",
     "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hslcrb/npmpack_right-pad.git"
   },
   "keywords": [
     "right-pad",
     "pad",
-    "string",
-    "simple"
+    "string"
   ],
   "author": "Rheehose (Rhee Creative)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hslcrb/npmpack_right-pad/issues"
+  },
+  "homepage": "https://github.com/hslcrb/npmpack_right-pad#readme",
+  "files": [
+    "dist",
+    "README.md",
+    "README_ko.md",
+    "CONTRIBUTING.md",
+    "CONTRIBUTING_ko.md",
+    "CHANGELOG.md",
+    "CHANGELOG_ko.md",
+    "LICENSE",
+    "logo.png"
+  ],
   "devDependencies": {
     "@types/node": "^22.10.7",
     "ts-node": "^10.9.2",

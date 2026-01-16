@@ -4,24 +4,24 @@
 
 # right-pad
 
-> Appends a single space to the right of a string.
+> 문자열 오른쪽에 공백 하나를 추가합니다.
 
-[한국어 (Korean)](./README_ko.md)
+[English](./README.md)
 
-## Install
+## 설치
 
 ```bash
 npm i right-pad
 ```
 
-## Usage
+## 사용법
 
 ```ts
 import pad from 'right-pad'
 
-pad('hi') // 'hi '
+pad('안녕') // '안녕 '
 ```
 
-## License
+## 라이선스
 
 MIT © [Rheehose (Rhee Creative)](https://github.com/hslcrb)
