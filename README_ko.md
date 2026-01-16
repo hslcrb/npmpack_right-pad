@@ -57,6 +57,7 @@ right('최적화'); // '최적화 '
 
 **Rheehose (Rhee Creative)**
 - GitHub: [@hslcrb](https://github.com/hslcrb)
+- 최종 업데이트: 2026-01-16 (KST)
 
 ---
 

@@ -57,6 +57,7 @@ right('opt'); // 'opt '
 
 **Rheehose (Rhee Creative)**
 - GitHub: [@hslcrb](https://github.com/hslcrb)
+- Last Update: 2026-01-16 (KST)
 
 ---
 

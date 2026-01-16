@@ -8,7 +8,7 @@ All notable changes to this project will be documented in this file. This projec
 
 ---
 
-## [1.0.0] - 2026-01-16
+## [1.0.0] - 2026-01-16 (KST)
 
 ### 🚀 Ultimate Performance & Power (v1.0 Final)
 - **Speed**: Optimized JIT branch prediction for O(1) concatenation.
