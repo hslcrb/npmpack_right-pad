@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file. This projec
 - **Power**: Industrial-grade stability with zero runtime overhead.
 - **Ecosystem**: 100% NPM focus for maximum compatibility.
 - **Scale**: Designed for hyper-scale microservices and high-throughput apps.
+- **Container**: Added Docker integration and automated GitHub Packages (GHCR) publishing.
 
 ---
 
