@@ -1,4 +1,4 @@
-<img src="logo.png" width="120" align="right" alt="right-pad-extreme logo">
+<img src="logo.png" width="120" align="right" alt="right-pads logo">
 
 # Changelog
 
@@ -18,4 +18,4 @@ All notable changes to this project will be documented in this file. This projec
 
 ---
 
-*For future updates, please follow the [GitHub project](https://github.com/hslcrb/npmpack_right-pad-extreme).*
+*For future updates, please follow the [GitHub project](https://github.com/hslcrb/npmpack_right-pads).*

@@ -1,19 +1,19 @@
-<img src="logo.png" width="120" align="right" alt="right-pad-extreme logo">
+<img src="logo.png" width="120" align="right" alt="right-pads logo">
 
-# right-pad-extreme 기여 가이드
+# right-pads 기여 가이드
 
-먼저, `right-pad-extreme` 프로젝트에 관심을 가져주셔서 감사합니다! 여러분의 기여가 오픈 소스 커뮤니티를 더욱 배우기 좋고, 영감을 주며, 창조적인 곳으로 만듭니다.
+먼저, `right-pads` 프로젝트에 관심을 가져주셔서 감사합니다! 여러분의 기여가 오픈 소스 커뮤니티를 더욱 배우기 좋고, 영감을 주며, 창조적인 곳으로 만듭니다.
 
 [English Guide (영어)](./CONTRIBUTING.md)
 
 ## 📋 행동 강령
 
-`right-pad-extreme`를 개방적이고 포용적인 프로젝트로 유지할 수 있도록 도와주세요. 기본적인 GitHub 행동 강령 가이드라인을 준수해 주시기 바랍니다.
+`right-pads`를 개방적이고 포용적인 프로젝트로 유지할 수 있도록 도와주세요. 기본적인 GitHub 행동 강령 가이드라인을 준수해 주시기 바랍니다.
 
 ## 🛠 어떻게 기여할 수 있나요?
 
 ### 버그 보고
-- [이슈(Issues)](https://github.com/hslcrb/npmpack_right-pad-extreme/issues) 탭을 확인하여 이미 보고된 버그인지 확인해 주세요.
+- [이슈(Issues)](https://github.com/hslcrb/npmpack_right-pads/issues) 탭을 확인하여 이미 보고된 버그인지 확인해 주세요.
 - 보고되지 않은 버그라면, 명확한 제목과 설명으로 새 이슈를 생성해 주세요. 가능한 한 많은 정보를 포함해 주시면 좋습니다.
 
 ### 기능 제안
@@ -32,7 +32,7 @@
 
 1. 리포지토리 클론:
    ```bash
-   git clone https://github.com/hslcrb/npmpack_right-pad-extreme.git
+   git clone https://github.com/hslcrb/npmpack_right-pads.git
    ```
 2. 의존성 설치:
    ```bash

@@ -1,4 +1,4 @@
-<img src="logo.png" width="120" align="right" alt="right-pad-extreme logo">
+<img src="logo.png" width="120" align="right" alt="right-pads logo">
 
 # 변경 사항 (Changelog)
 
@@ -18,4 +18,4 @@
 
 ---
 
-*향후 업데이트 버전은 [GitHub 프로젝트](https://github.com/hslcrb/npmpack_right-pad-extreme)를 참고해 주세요.*
+*향후 업데이트 버전은 [GitHub 프로젝트](https://github.com/hslcrb/npmpack_right-pads)를 참고해 주세요.*

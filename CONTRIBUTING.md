@@ -1,6 +1,6 @@
-<img src="logo.png" width="120" align="right" alt="right-pad-extreme logo">
+<img src="logo.png" width="120" align="right" alt="right-pads logo">
 
-# Contributing to right-pad-extreme
+# Contributing to right-pads
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
 
@@ -8,12 +8,12 @@ First off, thanks for taking the time to contribute! Contributions are what make
 
 ## 📋 Code of Conduct
 
-Help us keep `right-pad-extreme` open and inclusive. Please read and follow our [Code of Conduct](https://github.com/hslcrb/npmpack_right-pad-extreme/blob/main/CODE_OF_CONDUCT.md) (standard GitHub recommendations apply).
+Help us keep `right-pads` open and inclusive. Please read and follow our [Code of Conduct](https://github.com/hslcrb/npmpack_right-pads/blob/main/CODE_OF_CONDUCT.md) (standard GitHub recommendations apply).
 
 ## 🛠 How Can I Contribute?
 
 ### Reporting Bugs
-- Check the [Issues](https://github.com/hslcrb/npmpack_right-pad-extreme/issues) to see if the bug has already been reported.
+- Check the [Issues](https://github.com/hslcrb/npmpack_right-pads/issues) to see if the bug has already been reported.
 - If not, open a new issue with a clear title and description. Include as much relevant information as possible.
 
 ### Suggesting Enhancements
@@ -32,7 +32,7 @@ Help us keep `right-pad-extreme` open and inclusive. Please read and follow our 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hslcrb/npmpack_right-pad-extreme.git
+   git clone https://github.com/hslcrb/npmpack_right-pads.git
    ```
 2. Install dependencies:
    ```bash
